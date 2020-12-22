@@ -262,7 +262,7 @@
     "uuid": "^3.3.2",
     "warning": "^4.0.1",
     "webpack": "^4.30.0",
-    "webpack-build-notifier": "^0.1.28",
+    "webpack-build-notifier": "^2.1.1",
     "webpack-bundle-analyzer": ">=3.3.2",
     "webpack-cli": "^3.3.0",
     "webpack-dashboard": "^2.0.0",
