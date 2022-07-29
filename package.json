@@ -204,7 +204,7 @@
     "md5": "^2.3.0",
     "method-override": "^3.0.0",
     "mini-css-extract-plugin": "^0.4.3",
-    "mongoose": "^5.12.3",
+    "mongoose": "^6.4.6",
     "mongoose-deep-populate": "^3.2.0",
     "mongoose-validator": "^2.1.0",
     "morgan": "^1.10.0",
