@@ -141,7 +141,7 @@
     "accepts": "^1.3.5",
     "async": "^2.6.3",
     "autoprefixer": "^9.8.6",
-    "axios": "^0.21.1",
+    "axios": "^1.6.4",
     "axios-response-logger": "^0.1.0",
     "babel-loader": "^8.2.2",
     "bcrypt-nodejs": "0.0.3",
