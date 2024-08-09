@@ -149,7 +149,7 @@
     "body-parser": "^1.18.3",
     "bunyan": "^1.8.15",
     "chalk": "^2.4.1",
-    "cheerio": "^1.0.0-rc.5",
+    "cheerio": "^1.0.0",
     "chunk-manifest-webpack-plugin": "github:malectro/chunk-manifest-webpack-plugin#webpack-4",
     "classnames": "^2.3.1",
     "compression-webpack-plugin": "^7.1.2",
