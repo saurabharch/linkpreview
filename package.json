@@ -261,7 +261,7 @@
     "useragent": "^2.3.0",
     "uuid": "^3.4.0",
     "warning": "^4.0.1",
-    "webpack": "^4.46.0",
+    "webpack": "^5.94.0",
     "webpack-build-notifier": "^0.1.28",
     "webpack-bundle-analyzer": "^4.4.0",
     "webpack-cli": "^3.3.12",
