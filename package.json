@@ -276,6 +276,6 @@
     "webpack-pwa-manifest": "^4.3.0",
     "webpack-runtime-analyzer": "^1.5.0",
     "webpack-visualizer-plugin": "^0.1.11",
-    "yargs": "^16.2.0"
+    "yargs": "^18.0.0"
   }
 }
